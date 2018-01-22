@@ -68,3 +68,10 @@ body {
   height: 10px;
   margin: 0;
 }
+
+button {
+  border-radius: 10px 10px;
+  font-family: inherit;
+  background: inherit;
+  color: inherit;
+}
